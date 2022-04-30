@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Olá <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> bem vindo ao meu GIT, eu sou Lucas Oi
+# Olá <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> bem-vindo ao meu GIT, eu sou Lucas Oi
 
 ## Desenvolvedor FullStack WEB e estudante de Engenharia!
 
