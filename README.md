@@ -56,7 +56,7 @@ Eu tenho 26 anos, sou formado como Dev. Fullstack JAVA JR. pela GENERATION BRASI
   <a href = "mailto:lucasoi37@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucas-de-oliveira-oi/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Brinamg/Brinamg/blob/output/github-contribution-grid-snake.svg)
   
     
 </div>
