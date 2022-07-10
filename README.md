@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ## Desenvolvedor FullStack WEB e estudante de Engenharia!
 
-Eu tenho 26 anos, apaixonado por tecnologias. Estou estudando como Dev. Fullstack JAVA JR. Onde pude me formar em 2022 pela GENERATION BRASIL
+Eu tenho 26 anos, apaixonado por tecnologias. Estou estudando como Dev. Fullstack JAVA JR, onde pude me formar em 2022 pela GENERATION BRASIL
 
 - 🌍 Moro em São Paulo - SP / Brasil;
 - ✉️ Este é meu email: [lucas.oi-@hotmail.com](mailto:lucas.oi-@hotmail.com) para contato;
