@@ -15,15 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15px">
 -->
-# Olá bem-vindos ao meu GITHUB, eu sou Lucas Oi.
+# Olá sejam bem-vindos ao meu GITHUB, eu sou Lucas Oi.
 
 ## Desenvolvedor FullStack WEB e estudante de Engenharia!
 
-Eu tenho 26 anos, sou formado como Dev. Fullstack JAVA JR. pela GENERATION BRASIL e apaixonado por tecnologias.
+Eu tenho 26 anos, apaixonado por tecnologias. Estou estudando como Dev. Fullstack JAVA JR. Onde pude me formar em 2022 pela GENERATION BRASIL
 
 - 🌍 Moro em São Paulo - SP / Brasil;
 - ✉️ Este é meu email: [lucas.oi-@hotmail.com](mailto:lucas.oi-@hotmail.com) para contato;
-- 🧠 Estou graduando o 6º semestre de Engenharia Eletrica na FEI (SBC);
+- 🧠 Estou graduando o 7º semestre de Engenharia Eletrica na FEI (SBC), além de estudar programação através de plataformas e youtube;
 - 🤝 Estou aberto a oportunidades de trabalho.
 
 ### GitHub Status:
