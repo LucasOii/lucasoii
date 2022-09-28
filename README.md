@@ -23,7 +23,7 @@ Eu tenho 26 anos, apaixonado por tecnologias. Estou estudando como Dev. Fullstac
 
 - 🌍 Moro em São Paulo - SP / Brasil;
 - ✉️ Este é meu email: [lucas.oi-@hotmail.com](mailto:lucas.oi-@hotmail.com) para contato;
-- 🧠 Estou graduando o 7º semestre de Engenharia Eletrica na FEI (SBC), além de estudar programação através de plataformas e youtube;
+- 🧠 Estou graduando o 7º semestre de Engenharia Eletrica na FEI (SBC), além de estudar programação através das plataformas Udemi, Alura, youtube e documentações java;
 - 🤝 Estou aberto a oportunidades de trabalho.
 
 ### GitHub Status:
